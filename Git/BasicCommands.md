@@ -1,0 +1,5 @@
+- Add : git init .
+- Remove : sudo rm -rf .git
+- Global Config List: git config --list --global
+- Set Username: git config --global user.name "akshaya-kumar-biswal"
+- Set Email: git config --global user.email "mail.akshayabiswal@gmail.com"
